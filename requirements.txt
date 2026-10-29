@@ -1,0 +1,10 @@
+aiogram>=3.0.0
+python-dotenv
+supabase
+openai
+pypdf
+httpx
+beautifulsoup4
+
+
+
